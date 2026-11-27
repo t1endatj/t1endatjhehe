@@ -105,8 +105,6 @@
 <summary><b>├── 📂 backend-frameworks</b></summary>
 <br/>
 <div align="center">
-  <a href="https://www.djangoproject.com/" target="_blank" title="Django"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" align="middle" /></a>&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://nestjs.com/" target="_blank" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" align="middle" /></a>&nbsp;&nbsp;
   <a href="https://gin-gonic.com/" target="_blank" title="Gin (Go)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Gin (Go)" align="middle" /></a>
